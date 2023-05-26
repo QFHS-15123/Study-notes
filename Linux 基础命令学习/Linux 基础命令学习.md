@@ -1,5 +1,7 @@
 # Linux 基础命令学习
 
+*参考：[40个最常用的Linux命令行大全 - 知乎](https://zhuanlan.zhihu.com/p/420247468)*
+
 **注：Windows 环境安装 Linux 教程见 <VMWare + Fedora 安装 Linux>**
 
 基础配置：
